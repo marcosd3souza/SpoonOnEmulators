@@ -1,0 +1,11 @@
+execute os testes nos emuladores:
+"bash run_allTests_in_emulators.bash"
+
+app-debug.apk
+aplicativo gerado pelo projeto de teste
+
+app-debug-androidTest.apk
+aplicativo de teste
+
+demo-app-x86-debug.apk
+aplicativo para ser validado
