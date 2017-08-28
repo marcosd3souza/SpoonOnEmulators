@@ -1,6 +1,6 @@
 #~/Android/Sdk/emulator/emulator -list-avds	
 
-#~/Android/Sdk/emulator/emulator -avd dscheck_device_35_55pol
+#~/Android/Sdk/emulator/emulator -avd device_35_55pol
 
 #-- run all tests
 
@@ -35,7 +35,7 @@ java -jar mergeResult.jar '/home/marcos/Documentos/Automação/Spoon/result'
 
 
 # adb shell reboot -p
-#dscheck_device_35_55pol
+#device_35_55pol
 
 
 
